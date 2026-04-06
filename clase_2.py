@@ -31,3 +31,8 @@ sin_valor = None
 def sumar(valor_1, valor_2):
     """Devuelve la suma de dos valores."""
     return valor_1 + valor_2
+
+
+print(sumar(1,2)) # 3
+
+print("Hola!")
