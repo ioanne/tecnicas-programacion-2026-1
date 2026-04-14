@@ -154,3 +154,8 @@ print("Estoy fuera del if")
 
 
 """
+
+variable = True
+variable2 = False
+print(variable)
+print(variable2)
